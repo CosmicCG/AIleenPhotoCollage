@@ -1,0 +1,37 @@
+html{
+    background: linear-gradient(90deg, #3E5F44, #5E936C);
+}
+
+
+h1{
+    text-align: center;
+    color: #E8FFD7;
+
+}
+
+p{
+    color: #E8FFD7;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+img{
+    border: 10px, solid, #93DA97 ;
+    width: 45%;
+
+}
+
+.middle{
+    margin-left: 50%;
+}
+
+.left{
+    margin: 0;
+}
+
+.special{
+    margin-left: 25%;
+    transform: rotate(90deg);
+}
+
